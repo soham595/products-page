@@ -12,7 +12,7 @@ export interface Product {
 })
 export class AppComponent {
   products: Product[] = [
-    { image: 'assets/product1.jpg', price: 1999 },
+    { image: 'assets/product1.png', price: 1999 },
     { image: '', price: null },
     { image: '', price: null }
   ];
